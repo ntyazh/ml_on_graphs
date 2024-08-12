@@ -1,4 +1,4 @@
-# ml_on_graphs
+# Working with graphs
 
 The notebook is divided by two parts:
 
